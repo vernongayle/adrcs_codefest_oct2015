@@ -11,6 +11,10 @@ STOP
 pwd
 cd F:\rft-teaching-file\
 pwd
+
+
+* Vernon says download data from the web *
+
 import delimited "2011 Census Microdata Teaching File.csv", varnames(2)  clear
 
 ********************************************************************************
